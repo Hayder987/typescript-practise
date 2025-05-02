@@ -1,0 +1,1 @@
+const data1:string = "hello testing"
